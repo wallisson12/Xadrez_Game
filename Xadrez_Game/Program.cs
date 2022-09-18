@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using Tabuleiro;
+using tabuleiro;
 
 namespace Xadrez_Game
 {
@@ -8,7 +8,9 @@ namespace Xadrez_Game
     {
         static void Main(string[] args)
         {
-            
+            Tabuleiro tab = new Tabuleiro(8, 8);
+
+            Tela.ImprimirTabuleiro(tab);
         }
     }
 }
