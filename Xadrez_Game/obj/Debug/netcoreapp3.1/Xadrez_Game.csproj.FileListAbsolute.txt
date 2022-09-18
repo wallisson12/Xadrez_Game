@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Área de Trabalho\Projetos_C#\Xadrez_C#\Xadrez_Game\Xadrez_Game\bin\Debug\netcoreapp3.1\Xadrez_Game.exe
+C:\Users\DELL\OneDrive\Área de Trabalho\Projetos_C#\Xadrez_C#\Xadrez_Game\Xadrez_Game\bin\Debug\netcoreapp3.1\Xadrez_Game.deps.json
+C:\Users\DELL\OneDrive\Área de Trabalho\Projetos_C#\Xadrez_C#\Xadrez_Game\Xadrez_Game\bin\Debug\netcoreapp3.1\Xadrez_Game.runtimeconfig.json
+C:\Users\DELL\OneDrive\Área de Trabalho\Projetos_C#\Xadrez_C#\Xadrez_Game\Xadrez_Game\bin\Debug\netcoreapp3.1\Xadrez_Game.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Área de Trabalho\Projetos_C#\Xadrez_C#\Xadrez_Game\Xadrez_Game\bin\Debug\netcoreapp3.1\Xadrez_Game.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\Projetos_C#\Xadrez_C#\Xadrez_Game\Xadrez_Game\bin\Debug\netcoreapp3.1\Xadrez_Game.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\Projetos_C#\Xadrez_C#\Xadrez_Game\Xadrez_Game\obj\Debug\netcoreapp3.1\Xadrez_Game.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\Projetos_C#\Xadrez_C#\Xadrez_Game\Xadrez_Game\obj\Debug\netcoreapp3.1\Xadrez_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Área de Trabalho\Projetos_C#\Xadrez_C#\Xadrez_Game\Xadrez_Game\obj\Debug\netcoreapp3.1\Xadrez_Game.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\Projetos_C#\Xadrez_C#\Xadrez_Game\Xadrez_Game\obj\Debug\netcoreapp3.1\Xadrez_Game.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Área de Trabalho\Projetos_C#\Xadrez_C#\Xadrez_Game\Xadrez_Game\obj\Debug\netcoreapp3.1\Xadrez_Game.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\Projetos_C#\Xadrez_C#\Xadrez_Game\Xadrez_Game\obj\Debug\netcoreapp3.1\Xadrez_Game.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\Projetos_C#\Xadrez_C#\Xadrez_Game\Xadrez_Game\obj\Debug\netcoreapp3.1\Xadrez_Game.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\Projetos_C#\Xadrez_C#\Xadrez_Game\Xadrez_Game\obj\Debug\netcoreapp3.1\Xadrez_Game.genruntimeconfig.cache
