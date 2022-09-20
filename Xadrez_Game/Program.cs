@@ -9,13 +9,22 @@ namespace Xadrez_Game
     {
         static void Main(string[] args)
         {
-            Tabuleiro tab = new Tabuleiro(8, 8);
+            try
+            {
+                Tabuleiro tab = new Tabuleiro(8, 8);
 
-            tab.ColocarPecas(new Torre(tab,Cor.Rosa),new Posicao(0,0));
-            tab.ColocarPecas(new Torre(tab, Cor.Rosa), new Posicao(1, 3));
-            tab.ColocarPecas(new Rei(tab, Cor.Rosa), new Posicao(2, 4));
+                tab.ColocarPecas(new Torre(tab,Cor.Rosa),new Posicao(0,0));
+                tab.ColocarPecas(new Torre(tab, Cor.Rosa), new Posicao(1, 3));
+                tab.ColocarPecas(new Rei(tab, Cor.Rosa), new Posicao(2,4));
 
-            Tela.ImprimirTabuleiro(tab);
+
+                Tela.ImprimirTabuleiro(tab);
+
+            }
+            catch (TabuleiroException e)
+            {
+                Console.WriteLine("Error: " + e.Message);
+            }
         }
     }
 }
