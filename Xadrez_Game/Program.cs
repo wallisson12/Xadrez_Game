@@ -11,18 +11,21 @@ namespace Xadrez_Game
         {
             try
             {
-                //Tabuleiro tab = new Tabuleiro(8, 8);
+                Tabuleiro tab = new Tabuleiro(8, 8);
 
-                //tab.ColocarPecas(new Torre(tab,Cor.Rosa),new Posicao(0,0));
-                //tab.ColocarPecas(new Torre(tab, Cor.Rosa), new Posicao(1, 3));
-                //tab.ColocarPecas(new Rei(tab, Cor.Rosa), new Posicao(2,4));
+                tab.ColocarPecas(new Torre(tab, Cor.Amarela), new Posicao(0, 0));
+                tab.ColocarPecas(new Torre(tab, Cor.Amarela), new Posicao(1, 3));
+                tab.ColocarPecas(new Rei(tab, Cor.Amarela), new Posicao(0, 2));
 
 
-                //Tela.ImprimirTabuleiro(tab);
+                tab.ColocarPecas(new Torre(tab, Cor.Azul), new Posicao(3, 5));
 
-                PosicaoXadrez pos = new PosicaoXadrez('c',7);
 
-                Console.WriteLine(pos.ToPosicao());
+                Tela.ImprimirTabuleiro(tab);
+
+                //PosicaoXadrez pos = new PosicaoXadrez('c',7);
+
+                //Console.WriteLine(pos.ToPosicao());
 
             }
             catch (TabuleiroException e)
