@@ -18,5 +18,10 @@ namespace tabuleiro
             QtdMovimentos = 0;
             Tabuleiroo = tab;
         }
+
+        public void ImcrementaMovimento()
+        {
+            QtdMovimentos++;
+        }
     }
 }
